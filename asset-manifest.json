@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.3379459d.css",
-    "main.js": "/react-portfolio/static/js/main.8f6cfbc0.js",
+    "main.js": "/react-portfolio/static/js/main.13edaf40.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/ORM-ECommerce.gif": "/react-portfolio/static/media/ORM-ECommerce.0830c680892ae1bac9ae.gif",
     "static/media/Big-Sky-Lodges.png": "/react-portfolio/static/media/Big-Sky-Lodges.b16a090c3b85d6d440fe.png",
@@ -13,11 +13,11 @@
     "static/media/JATE.png": "/react-portfolio/static/media/JATE.63f57d47d78595400b15.png",
     "index.html": "/react-portfolio/index.html",
     "main.3379459d.css.map": "/react-portfolio/static/css/main.3379459d.css.map",
-    "main.8f6cfbc0.js.map": "/react-portfolio/static/js/main.8f6cfbc0.js.map",
+    "main.13edaf40.js.map": "/react-portfolio/static/js/main.13edaf40.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3379459d.css",
-    "static/js/main.8f6cfbc0.js"
+    "static/js/main.13edaf40.js"
   ]
 }
