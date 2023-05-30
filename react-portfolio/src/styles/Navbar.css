@@ -1,0 +1,24 @@
+body {
+  background: linear-gradient(to top right, #010809, #7d38c2);
+  color: white;
+}
+
+.sidebar {
+  background: linear-gradient(to top, #010809, #4ce2f9);
+  color: white;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+.sidebar-sticky {
+  position: relative;
+  top: 15px;
+  /* height: calc(75vh - 48px); */
+  padding-top: 0.5rem;
+  overflow-x: hidden;
+  overflow-y: auto;
+}

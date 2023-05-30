@@ -3,7 +3,7 @@
 
 # React Portfolio 
 |CSS,HTML,Javascript  | https://github.com/eogbeide424/React-Portfolio| 
-|Deployed Link | https://eogbeide424.github.io/React-Portfolio/| 
+|Deployed Link | https://eogbeide424.github.io/react-portfolio/| 
 
 ## Description
 
