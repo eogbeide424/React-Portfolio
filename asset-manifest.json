@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.3379459d.css",
+    "main.js": "/react-portfolio/static/js/main.8f6cfbc0.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/ORM-ECommerce.gif": "/react-portfolio/static/media/ORM-ECommerce.0830c680892ae1bac9ae.gif",
+    "static/media/Big-Sky-Lodges.png": "/react-portfolio/static/media/Big-Sky-Lodges.b16a090c3b85d6d440fe.png",
+    "static/media/Bucket_List.gif": "/react-portfolio/static/media/Bucket_List.c84afb78b35641b5b2a6.gif",
+    "static/media/Social-Network.gif": "/react-portfolio/static/media/Social-Network.e1e57173018b62f0dd4d.gif",
+    "static/media/pop-pursuit.png": "/react-portfolio/static/media/pop-pursuit.313cc3ce7a9b19397b0c.png",
+    "static/media/Eugene-Ogbeide-Resume.pdf": "/react-portfolio/static/media/Eugene-Ogbeide-Resume.cafd2c6a9174161f32b1.pdf",
+    "static/media/profile-pic.jpg": "/react-portfolio/static/media/profile-pic.8ba052b244d6d1b35c4d.jpg",
+    "static/media/JATE.png": "/react-portfolio/static/media/JATE.63f57d47d78595400b15.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.3379459d.css.map": "/react-portfolio/static/css/main.3379459d.css.map",
+    "main.8f6cfbc0.js.map": "/react-portfolio/static/js/main.8f6cfbc0.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3379459d.css",
+    "static/js/main.8f6cfbc0.js"
+  ]
+}
