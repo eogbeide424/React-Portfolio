@@ -1,6 +1,6 @@
 import React from "react";
-import "../../images/profile-pic.jpg";
-import "../../images/Eugene-Ogbeide-Resume.pdf";
+import profilePic from"../../images/profile-pic.jpg";
+import resume from"../../images/Eugene-Ogbeide-Resume.pdf";
 
 export default function About() {
   return (
@@ -8,13 +8,13 @@ export default function About() {
       <div className="col-8-md profilePic">
         <img
           className="profilePic"
-          src="../../images/profile-pic"
+          src={profilePic}
           alt="Profile"
           style={{ borderRadius: "50%", width: "100px", height: "100px" }}
         />
      
       <h1>About Me</h1>
-      <a href="../../images/Eugene-Ogbeide-Resume.pdf" download>Download my resume</a>
+      <a href={resume} download>Download my resume</a>
 
       <p>
         Hello, I'm Eugene Ogbeide, a dedicated and experienced professional with
