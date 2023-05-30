@@ -15,9 +15,11 @@ export var title = "";
 
 function HeaderTitle({ title }) {
   return (
-    <h1 style={styles.sidebarHeading} className="sidebar-heading">
-      {title}{" "}
-    </h1>
+    <div className=" text-center">
+      <h1 style={styles.sidebarHeading} className="header">
+        {title}
+      </h1>
+    </div>
   );
 }
 export default HeaderTitle;

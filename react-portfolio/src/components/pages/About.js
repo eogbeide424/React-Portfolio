@@ -4,15 +4,15 @@ import "../../images/Eugene-Ogbeide-Resume.pdf";
 
 export default function About() {
   return (
-    <div>
-      <div className="profilePic">
+    
+      <div className="col-8-md profilePic">
         <img
           className="profilePic"
           src="../../images/profile-pic"
           alt="Profile"
           style={{ borderRadius: "50%", width: "100px", height: "100px" }}
         />
-      </div>
+     
       <h1>About Me</h1>
       <a href="../../images/Eugene-Ogbeide-Resume.pdf" download>Download my resume</a>
 
@@ -37,6 +37,7 @@ export default function About() {
         excited to bring my blend of skills and experience to new challenges and
         opportunities. at.
       </p>
-    </div>
+      </div>
+  
   );
 }
