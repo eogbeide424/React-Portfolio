@@ -1,15 +1,20 @@
 import React from "react";
 import "../styles/Navbar.css";
 import HeaderTitle from "./HeaderTitle";
-
+import { HeaderMenu } from "./HeaderMenu";
 function NavBar({ currentPage, handlePageChange }) {
-
   return (
-   <div >
-      <div >
+    <div>
+      <span className="headerMenu">
+        <HeaderMenu
+          currentPage={currentPage}
+          handlePageChange={handlePageChange}
+        />
+      </span>
+      <div>
         <nav className="col-sm-1 d-none d-md-block sidebar">
           <div className="sidebar-sticky">
-           <HeaderTitle title={currentPage} />
+            <HeaderTitle title={currentPage} />
             <ul className="nav flex-column">
               <li className="nav-item">
                 <a
@@ -27,7 +32,7 @@ function NavBar({ currentPage, handlePageChange }) {
                   href="#about"
                   onClick={() => handlePageChange("About")}
                   // Check to see if the currentPage is `About`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
-                  
+
                   className={
                     currentPage === "About" ? "nav-link active" : "nav-link"
                   }
@@ -62,9 +67,8 @@ function NavBar({ currentPage, handlePageChange }) {
             </ul>
           </div>
         </nav>
-        </div>
-        </div>
+      </div>
+    </div>
   );
-
 }
 export default NavBar;

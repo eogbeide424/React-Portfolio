@@ -22,3 +22,21 @@ body {
   overflow-x: hidden;
   overflow-y: auto;
 }
+@media (min-width: 831px) {
+  .sidebar {
+    display: block;
+  }
+  .headerMenu {
+    display: none;
+  }
+}
+
+@media (max-width: 830px) {
+  .sidebar {
+    display: none;
+  }
+  .headerMenu {
+    display:inline-flex;
+    justify-content: space-around;
+  }
+}

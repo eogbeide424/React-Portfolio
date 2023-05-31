@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles/Navbar.css";
 
 const styles = {
   sidebarHeading: {
@@ -13,12 +14,18 @@ const styles = {
 };
 export var title = "";
 
+
+
+
+
 function HeaderTitle({ title }) {
   return (
     <div className=" text-center">
       <h1 style={styles.sidebarHeading} className="header">
         {title}
+    
       </h1>
+
     </div>
   );
 }

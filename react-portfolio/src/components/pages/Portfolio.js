@@ -56,12 +56,13 @@ function Portfolio() {
     
       <div className="row flex-wrap d-flex justify-content-around">
         {apps.map((app, index) => (
-       <div className="col-4 ">
-            <Cards  key={index}
+       <div className="col-4    ">
+            <Cards  
               title={app.title}
               description={app.description}
               imageSrc={app.imageSrc}
               href={app.href} 
+              key={index}
             />
          </div>
         ))}

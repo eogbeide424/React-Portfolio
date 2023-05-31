@@ -1,0 +1,17 @@
+@media (min-width: 830px) {
+    .headerMenu {
+      display: none;
+    }.sidebar {
+        display: block;
+  }
+
+  @media screen and (max-width: 830px) {
+    .sidebar {
+      display: none;
+    }
+    .headerMenu {
+      display:inline-flex;
+      justify-content: space-around;
+    }
+  }
+}
