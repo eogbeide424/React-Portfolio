@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.3379459d.css",
-    "main.js": "/React-Portfolio/static/js/main.3de8bec7.js",
+    "main.css": "/React-Portfolio/static/css/main.58ba130f.css",
+    "main.js": "/React-Portfolio/static/js/main.b594c3b0.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/ORM-ECommerce.gif": "/React-Portfolio/static/media/ORM-ECommerce.0830c680892ae1bac9ae.gif",
     "static/media/Big-Sky-Lodges.png": "/React-Portfolio/static/media/Big-Sky-Lodges.b16a090c3b85d6d440fe.png",
@@ -12,12 +12,12 @@
     "static/media/profile-pic.jpg": "/React-Portfolio/static/media/profile-pic.8ba052b244d6d1b35c4d.jpg",
     "static/media/JATE.png": "/React-Portfolio/static/media/JATE.63f57d47d78595400b15.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.3379459d.css.map": "/React-Portfolio/static/css/main.3379459d.css.map",
-    "main.3de8bec7.js.map": "/React-Portfolio/static/js/main.3de8bec7.js.map",
+    "main.58ba130f.css.map": "/React-Portfolio/static/css/main.58ba130f.css.map",
+    "main.b594c3b0.js.map": "/React-Portfolio/static/js/main.b594c3b0.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3379459d.css",
-    "static/js/main.3de8bec7.js"
+    "static/css/main.58ba130f.css",
+    "static/js/main.b594c3b0.js"
   ]
 }
